@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello There!, I'm Shihab, a Web Developer 👋🏼:
 🛜 currently working on modern web and app development and hardware based projects. <br>👨🏼‍🎓 studying in Khulna University of Engineering & Technology, Khulna , Bangladesh.<br>👨🏼‍💻 working as a web developer since 2023 <br>
